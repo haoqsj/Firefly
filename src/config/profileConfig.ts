@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = {
 	name: "Firefly",
 
 	// 个人签名
-	bio: "Hello, I'm Firefly.",
+	bio: "Hello, I'm Firefly by sj.",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -24,19 +24,19 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "qq",
 			icon: "fa7-brands:qq",
-			url: "https://qm.qq.com/q/ZGsFa8qX2G",
+			url: "https://qun.qq.com/universal-share/share?ac=1&authKey=dyRjpjTiU061tdXwwTMB2ACCyOvYxJTIbaitPkex5%2F%2BpNIlVl2TF%2FR3bOJjWrxog&busi_data=eyJncm91cENvZGUiOiI1Mjk2NDkxODQiLCJ0b2tlbiI6IkJoQ1ptODhoaDM1eVVNMmd3dnJzV3VHK3llVGdybDZJQS9CdWt4OXJPeWJKa2N6RmVXNktJajdpZVlkZDdkWlMiLCJ1aW4iOiIyNjM1MjM3OTQ5In0%3D&data=jW8gfSPDBoWwKzBsECSNEc2zbH9h8DovpBMnYFi0r_SyhQgL2KjTx39rpn-DeeGPekY2syOwgpU8T-vAZtVkKw&svctype=4&tempid=h5_group_info",
 			showName: false,
 		},
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/CuteLeaf",
+			url: "https://github.com/haoqsj",
 			showName: false,
 		},
 		{
 			name: "Email",
 			icon: "fa7-solid:envelope",
-			url: "mailto:xiaye@msn.com",
+			url: "qiu.sj@outlook.com",
 			showName: false,
 		},
 		{
