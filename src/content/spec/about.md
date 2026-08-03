@@ -1,28 +1,24 @@
 # 关于我 / About Me
 
-你好！我是 **夏叶** ，一个在数字世界中默默无闻的一片叶子。
+你好！我是 **sj** ，一个在数字世界中默默无闻的一片叶子。
 
 ## 🛠️ 关于本站
 
-这个网站使用 **Astro** 框架构建，采用了 [Firefly](https://github.com/CuteLeaf/Firefly) 模板，Firefly 是基于 [Fuwari](https://github.com/saicaca/fuwari) 的二次开发。
+这个网站使用 **Astro** 框架构建
 
-**Firefly** 是一款基于 Astro 框架和 Fuwari 模板开发的清新美观且现代化个人博客主题模板，专为技术爱好者和内容创作者设计。该主题融合了现代 Web 技术栈，提供了丰富的功能模块和高度可定制的界面，让您能够轻松打造出专业且美观的个人博客网站。
+📜 免责声明
 
+📌 重要提示
 
-**🖥️在线预览： [Firefly - Demo site](https://firefly.cuteleaf.cn/)**
+本声明适用于所有分享的软件资源，使用前请务必仔细阅读。
 
-**🏠我的博客： [https://blog.cuteleaf.cn](https://blog.cuteleaf.cn/)**
+分享资源均源自网络，仅限个人学习与技术交流，不保证其合法性、安全性与完整性。
 
-**📝Firefly使用文档： [https://docs-firefly.cuteleaf.cn](https://docs-firefly.cuteleaf.cn/)**
+软件版权归原作者及官方所有，分享不涉及任何商业用途。
 
-**⭐Firefly开源地址：[https://github.com/CuteLeaf/Firefly](https://github.com/CuteLeaf/Firefly)** 
+使用者需自行承担安装、使用、传播资源带来的全部风险（含系统兼容、数据丢失、安全漏洞等）。
 
-**⭐Fuwari开源地址：[https://github.com/saicaca/fuwari](https://github.com/saicaca/fuwari)**
-
-::github{repo="CuteLeaf/Firefly"}
-
-::github{repo="saicaca/fuwari"}
-
+严禁用于商业牟利 禁止修改版权信息后二次传播 不得利用资源从事违法活动 下载即代表您已阅读并同意本声明，建议下载后进行病毒扫描，商业用途请购买正版授权
 ---
 
 *感谢你的来访！希望在这里能找到对你有用的内容！*
